@@ -16,3 +16,4 @@ dependencies:
   - ipywidgets
   - sentencepiece
   - tqdm
+  - traitlets

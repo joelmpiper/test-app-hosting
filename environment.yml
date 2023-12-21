@@ -16,4 +16,4 @@ dependencies:
   - ipywidgets
   - sentencepiece
   - tqdm
-  - traitlets
+  - traitlets=5.9

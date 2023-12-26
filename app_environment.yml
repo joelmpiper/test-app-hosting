@@ -11,9 +11,11 @@ dependencies:
   - fastai
   - voila
   - notebook
-  - libarchive 
+  - libarchive
   - libtiff
   - ipywidgets
   - sentencepiece
   - tqdm
   - traitlets=5.9
+  - gradio
+  - scikit-image

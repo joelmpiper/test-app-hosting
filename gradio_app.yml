@@ -1,0 +1,13 @@
+name: gradio_app
+channels:
+  - fastchan
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - fastai
+  - jupyterlab
+  - pip
+  - notebook
+  - scikit-image
+  - gradio
